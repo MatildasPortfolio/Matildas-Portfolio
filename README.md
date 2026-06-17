@@ -1,4 +1,4 @@
-# Hi, I'm Olanrewaju Wonuola Matilda
+# Hi, I'm Olanrewaju Wonuola Matilda!
 
 I'm a Data Analyst with a background in Microbiology - Now building impactful projects, using Excel, SQL and Power BI
 
