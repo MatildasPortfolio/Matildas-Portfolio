@@ -15,7 +15,7 @@ I am a Data Analyst who turns data into clear insights, uncovers patterns, and h
 - [Insurance Claims Fraud Analysis](https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis)
 
 ## Currently Learning
-- Advanced SQL: Windows Functions, Subqueries and CTEs
+- Advanced SQL: Window Functions, Subqueries and CTEs
 - Advanced DAX
 
 ## Connect With Me
