@@ -1,20 +1,22 @@
 # Hi, I'm Olanrewaju Wonuola Matilda!
 
-I am a Data Analyst who uses data to answer questions, uncover patterns, and help businesses make better informed decisions.
+I am a Data Analyst who turns data into clear insights, uncovers patterns, and helps answer real-world business questions.
 
-## Tools I Work With
+## Skills and Tools
 - Microsoft Excel
 - SQL
 - Power BI
+- Power Query
+- DAX
 - Google Sheets
 
 ## My Projects
-- [Fleet Operaional and Financial Efficiency Performance] (https://github.com/MatildasPortfolio/Fleet-Operational-and-Financial-Efficiency-Performance)
-- [Insurance Claims and Fraud Analysis] (https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis)
+- [Fleet Operational and Financial Efficiency Performance](https://github.com/MatildasPortfolio/Fleet-Operational-and-Financial-Efficiency-Performance)
+- [Insurance ClaimsnFraud Analysis](https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis)
 
 ## Currently Learning
-- Advanced SQL
-- Advanced Power BI and DAX
+- Advanced SQL: Windows Functions, Subqueries and CTEs
+- Advanced DAX
 
-## Let's Connect
+## Connect With Me
 [Linkedln- www.linkedin.com/in/olanrewaju-wonuola-matilda-4a61b3329]
