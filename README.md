@@ -19,4 +19,4 @@ I am a Data Analyst who turns data into clear insights, uncovers patterns, and h
 - Advanced DAX
 
 ## Connect With Me
-- [LinkedIn-Olanrewaju Wonuola Matilda](www.linkedin.com/in/olanrewaju-wonuola-matilda-4a61b3329)
+- [LinkedIn](www.linkedin.com/in/olanrewaju-wonuola-matilda-4a61b3329)
