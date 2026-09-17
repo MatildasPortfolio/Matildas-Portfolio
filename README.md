@@ -10,6 +10,7 @@ I am a Data Analyst who uses data to answer questions, uncover patterns, and hel
 
 ## My Projects
 - [Fleet Operaional and Financial Efficiency Performance] (https://github.com/MatildasPortfolio/Fleet-Operational-and-Financial-Efficiency-Performance)
+- [Insurance Claims and Fraud Analysis] (https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis)
 
 ## Currently Learning
 - Advanced SQL
