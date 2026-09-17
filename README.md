@@ -12,7 +12,7 @@ I am a Data Analyst who turns data into clear insights, uncovers patterns, and h
 
 ## My Projects
 - [Fleet Operational and Financial Efficiency Performance](https://github.com/MatildasPortfolio/Fleet-Operational-and-Financial-Efficiency-Performance)
-- [Insurance ClaimsnFraud Analysis](https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis)
+- [Insurance Claims Fraud Analysis](https://github.com/MatildasPortfolio/Insurance-Claims-Fraud-Analysis)
 
 ## Currently Learning
 - Advanced SQL: Windows Functions, Subqueries and CTEs
