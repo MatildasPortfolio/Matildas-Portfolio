@@ -1,6 +1,6 @@
 # Hi, I'm Olanrewaju Wonuola Matilda!
 
-I'm a Data Analyst with a background in Microbiology - Now building impactful projects, using Excel, SQL and Power BI
+I am a Data Analyst who uses data to answer questions, uncover patterns, and help businesses make better informed decisions.
 
 ## Tools I Work With
 - Microsoft Excel
